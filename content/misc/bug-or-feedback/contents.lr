@@ -19,6 +19,14 @@ When sending us feedback or reporting a bug, please include as many of these as 
 
 There are several ways to reach us, so please use what works best for you.
 
+#### Tor Forum
+
+We recommend asking for help on the [Tor Forum](https://forum.torproject.net).
+You will need to create an account to submit a new topic.
+Before you ask, please review our [discussion guidelines](https://forum.torproject.net/t/welcome-to-the-tor-project-forum/).
+At the moment, for the fastest response, please write in English.
+If you found a bug, please use GitLab.
+
 #### GitLab
 
 First, check if the bug is already known.
@@ -48,7 +56,7 @@ If there is not a blog post related to your issue, please contact us another way
 You can find us in the #tor channel on OFTC to give us feedback or report bugs/issues. 
 We may not respond right away, but we do check the backlog and will get back to you when we can.
 
-Learn how to connect to [OFTC servers](/get-in-touch/irc-help).
+Learn how to connect to [OFTC servers](../../get-in-touch/irc-help/).
 
 #### Email Lists
 
